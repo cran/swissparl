@@ -1,5 +1,5 @@
-b4f232b563260b1d96d8ae18eb265802 *DESCRIPTION
-ac60593706fa780e4d28db27204c4069 *NAMESPACE
+7144a77b9d6d499cbf8bcafe46996434 *DESCRIPTION
+82ea5494c90f308969b4f3dc463db7bd *NAMESPACE
 b95e18ed8ff20c10a493471ce36ff59e *R/data_seating_plan.R
 b11c01a60806b6f88e1d9dc04c571371 *R/get_data.R
 bdb3bd881f1d5fe2c54b06023ad4e82b *R/get_glimpse.R
@@ -20,8 +20,8 @@ b9f9b0ea0be2cc6ed1ceb5c45b9f9425 *R/utils_ggswissparl.R
 5e818659fb4044232d6283c46797dbc5 *man/get_data.Rd
 67a91290b21dc06ad147d762e8d5aed5 *man/get_glimpse.Rd
 65ee398330e03a99e8ccb0f760a580fe *man/get_overview.Rd
-47d1fa687dd3da078d2281b1755e8bab *man/get_tables.Rd
+8eb81cd8c5f7417d7a4a88b683aab28d *man/get_tables.Rd
 cbd466ab5184ae826be0e4dffb552fce *man/get_variables.Rd
 46651551ce0dc9dcbe5350881c6fd1ff *man/ggswissparl.Rd
-a315d69d2c7a1c21858bd6f7dfe13827 *man/seating_plan.Rd
-3948e6e6a5fde73aa451931ed6221532 *man/swissparl.Rd
+54375302508706298e0c2a1e552a7c8a *man/seating_plan.Rd
+1e4b8350b6ecc74c1e31b1697137533d *man/swissparl.Rd
